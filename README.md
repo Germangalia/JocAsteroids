@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # asteroids
 Repositori pel taller "Programació de Asteroids en JavaScript" de l'Institut de l'Ebre durant les jornades tècniques 2016.
 
@@ -9,3 +10,6 @@ A la branca gh-pages (GitHub pages) es troba la presentació utilitzada per les 
 
 També podeu provar el joc tal i com quedarà a l'adreça [http://jaumeramos.github.io/asteroids/asteroids.html](http://jaumeramos.github.io/asteroids/asteroids.html)
 
+=======
+# JocAsteroids
+>>>>>>> 2859e09aa828d863c1ba525a225b83b2111ac680
